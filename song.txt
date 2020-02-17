@@ -10,4 +10,8 @@ Let me testify, I have never testified,
 
 And I'm married to my pride, I ain't never, never cried.
 I got eyes like marbles, if I cry they sparkle,
+<<<<<<< HEAD
 You know I can read your mind like I'm the author,
+=======
+You know I can read your mind like I'm the author,
+>>>>>>> master
